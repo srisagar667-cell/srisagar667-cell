@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**srisagar667-cell/srisagar667-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sagar 👋
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building practical skills in cybersecurity, ethical hacking, and VAPT through structured learning and hands-on labs.
+
+### 🧰 Skills & Technologies
+
+- Linux & Kali Linux
+- Networking Fundamentals
+- Nmap
+- Burp Suite
+- Wireshark
+- Python
+- SQL
+- Web Security
+- Git & GitHub
+
+### 📚 Currently Learning
+
+- OverTheWire Bandit
+- TryHackMe
+- PortSwigger Web Security Academy
+- CEH
+- Web Application Security
+- Linux & Windows Security
+
+### 🧪 Hands-on Practice
+
+- Network reconnaissance
+- Service enumeration
+- HTTP request/response analysis
+- Web security testing
+- Linux security labs
+- CTF-based learning
+
+### 🎯 Goals
+
+- Build strong cybersecurity fundamentals
+- Become a skilled VAPT professional
+- Develop practical penetration-testing skills
+- Progress toward advanced cybersecurity certifications
+
+### 📈 Learning Approach
+
+> Understand the concept → Practice in a lab → Document the methodology → Review what I learned
+
+---
+
+**Learning every day. Building skills one lab at a time. 🔐**
